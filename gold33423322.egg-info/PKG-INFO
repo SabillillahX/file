@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: gold33423322
-Version: 0.0.1
+Version: 1.0.2
 Summary: Htiung golden ratio
 Home-page: https://github.com/SabillillahX
 Author: SabillillahX
@@ -22,8 +22,5 @@ pip install gold33423322
 ## Usage
 Basic Usage:
 ```python
-from gold33423322 import GoldenRatio
+from gold33423322.gold import GoldenRatio
 
-objects = Anime()
-
-objects.tampilkan hasil()

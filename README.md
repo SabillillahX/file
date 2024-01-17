@@ -10,8 +10,5 @@ pip install gold33423322
 ## Usage
 Basic Usage:
 ```python
-from gold33423322 import GoldenRatio
+from gold33423322.gold import GoldenRatio
 
-objects = Anime()
-
-objects.tampilkan hasil()

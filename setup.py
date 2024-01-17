@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 from pathlib import Path
 
-VERSION = '1.0.3'
+VERSION = '1.0.4'
 DESCRIPTION = 'Htiung golden ratio'
 
 this_directory = Path(__file__).parent
@@ -16,7 +16,7 @@ setup(
     description=DESCRIPTION,
     long_description=LONG_DESCRIPTION,
     long_description_content_type="text/markdown",
-    url='https://github.com/SabillillahX',
+    url='https://github.com/SabillillahX/file',
     packages=find_packages(),
     license='MIT',
     install_requires=[],

@@ -12,3 +12,6 @@ Basic Usage:
 ```python
 from gold33423322.gold import GoldenRatio
 
+phi = GoldenRatio.calculatePhi()
+print(phi)
+

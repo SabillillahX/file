@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: gold33423322
-Version: 1.0.2
+Version: 1.0.3
 Summary: Htiung golden ratio
 Home-page: https://github.com/SabillillahX
 Author: SabillillahX
@@ -23,4 +23,8 @@ pip install gold33423322
 Basic Usage:
 ```python
 from gold33423322.gold import GoldenRatio
+
+phi = GoldenRatio.calculatePhi()
+print(phi)
+
 
